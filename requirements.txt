@@ -1,6 +1,6 @@
 deepspeed==0.7.7
 pydantic==1.10.8
-torch==1.12.1+cu113
+torch==2.2.0
 t5
 numerize
 --extra-index-url https://download.pytorch.org/whl/cu113
